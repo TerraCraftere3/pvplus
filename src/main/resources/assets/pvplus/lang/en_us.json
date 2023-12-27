@@ -2,6 +2,8 @@
   "item.pvplus.hidden_blade": "Hidden Blade",
   "item.pvplus.creative_steel": "Creative Steel (only for testing)",
 
+  "block.pvplus.creative_steel_block": "Creative Steel Block (only for testing)",
+
   "itemGroup.pvplus_tab": "PvPlus (Items)",
   "itemGroup.pvplus_creative_tab": "PvPlus (only for testing)"
 }

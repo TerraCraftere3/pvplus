@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "pvplus:block/creative_steel_block"
+  }
+}
