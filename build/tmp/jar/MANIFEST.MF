@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: pvplus
+Specification-Vendor: TerraCrafterE3
+Specification-Version: 1
+Implementation-Title: pvplus
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor: TerraCrafterE3
+Implementation-Timestamp: 2023-12-27T11:08:52+0100
+
