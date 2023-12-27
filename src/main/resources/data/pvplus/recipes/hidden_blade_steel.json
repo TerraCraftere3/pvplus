@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "s",
+    "L"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:flint"
+    },
+    "s": {
+      "tag": "forge:ingots/steel"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "pvplus:hidden_blade"
+  }
+}
