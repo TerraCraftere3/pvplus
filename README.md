@@ -4,23 +4,27 @@ PvPlus is a minecraft mod that adds new PvP and PvE mechanics
 
 ## Features
 
-### Gui
+#### Gui
 
 - [ ] Overlay
 - [ ] Blood particles
 - [ ] Screen shaking
 
-### Movement
+#### Movement
 
 - [ ] Wall running
 - [ ] Sliding
 - [ ] Climbing
 
-### PvP / PvE
+#### PvP / PvE
 
 - [ ] Assassinate
-- [ ] Throw
+- [ ] Throw entity
 - [ ] Punch
+
+#### Items
+
+- [ ] Hidden blade
 
 ## Builds
 

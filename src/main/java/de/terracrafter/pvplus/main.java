@@ -1,6 +1,8 @@
 package de.terracrafter.pvplus;
 
 import com.mojang.logging.LogUtils;
+import de.terracrafter.pvplus.block.ModBlocks;
+import de.terracrafter.pvplus.item.ModItems;
 import net.minecraft.client.Minecraft;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
@@ -33,7 +35,13 @@ public class main {
 
     public main() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        //Register Blocks, Items, etc.
+        ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
+
         modEventBus.addListener(this::commonSetup);
+
         MinecraftForge.EVENT_BUS.register(this);
     }
 
